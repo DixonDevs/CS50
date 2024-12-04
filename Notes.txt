@@ -1,0 +1,59 @@
+Lecture 0:
+
+Links: 
+https://cs50.ai/chat
+https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
+
+
+
+
+"What ultimately matters in this course is not so much where you end up relatve to your classmates,
+but where you end up to your self relative to where you began".
+
+Computer Science:
+
+What is it? - The study of information.
+ - Problem Solving is a goal using computational thinking. 
+
+ - input -> (problem to be solved) -> output
+
+
+Computational Language ----------------------
+ Unary Notation - base-1
+ Binary Notation - base-2
+ Binary Digit - is a bit either a 0 or 1
+ Byte is 8bits
+
+
+ Psudocode: 
+ 1. Pick up phone book
+ 2. open to middle of phone book
+ 3. Look at page
+ 4. if person is on page    
+        Call person
+ 5. Else if person is earlier in book 
+    Open to middle of left half of book
+        Go back to step 3
+ 6. if person is person is later in book
+    Open to middle of right half of book
+        Go back to step 3
+ 7. Else
+        Quit
+
+
+What we will be talking about soon: 
+
+Functions
+Conditionals
+Boolean Expressions
+Loops
+
+
+Artificial Intellegence -------------------------------
+Large Language Model - Implementation of code that uses lots of lots of text from websites
+and infers from the patters of any type of language to answer the question.
+
+So its software that infers waht it should say probablistically.
+
+Return Value - 
