@@ -1,0 +1,32 @@
+Learing the Language C - How to solve problems
+
+- Functions
+- Variables
+- Conditionals
+- Loops
+
+How (not) to solve problems
+
+Hello World Program ---|
+
+Vocabulary Words:::::
+- Boilerplate
+- Source Code - This is what Humans write
+- Machine Code - Patters on 0's and 1's also known binary
+- High Level vs Low Level Language
+- Compiler: translates one language to another (source code to machine code)
+
+Commands: 
+code hello.C
+make hello
+./hello
+
+
+
+
+
+
+
+
+
+
